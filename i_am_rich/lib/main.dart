@@ -13,14 +13,13 @@ void main() {
               style: TextStyle(fontSize: 30),
               textAlign: TextAlign.center,
             ),
-            backgroundColor: Colors.deepOrangeAccent,
+            backgroundColor: Colors.blueAccent[500],
           ),
         ),
-        backgroundColor: Colors.deepOrange,
+        backgroundColor: Colors.lightBlue,
         body: Center(
           child: Image(
-            image: NetworkImage(
-                'https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/104755177/original/aa4a2a8769c2f83cd9cc4569f5e07f6e79231cf8/stylish-geometrical-designs-animals-or-characters.png'),
+            image: AssetImage('images/diamond.png'),
           ),
         ),
       ),
