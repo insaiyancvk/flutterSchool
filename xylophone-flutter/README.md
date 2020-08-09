@@ -28,4 +28,4 @@ We’re going to make a music app that plays Xylophone sounds. For every Beethov
 
 ## The Final app :
 
-![recording](record.mp4)
+![screen recording](record.gif)
