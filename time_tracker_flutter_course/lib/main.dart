@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:time_tracker_flutter_course/landing_page.dart';
+import 'package:time_tracker_flutter_course/app/landing_page.dart';
 
 void main(){
   runApp(MyApp());
